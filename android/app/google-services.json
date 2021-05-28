@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830206027571",
+    "project_id": "easy-cc9d1",
+    "storage_bucket": "easy-cc9d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830206027571:android:52c4e5e0a65612d3b14046",
+        "android_client_info": {
+          "package_name": "com.Rajuhasan.Easy_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830206027571-hlg3t3kpsukheui9nvpqivjk764td51a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Rajuhasan.Easy_pay",
+            "certificate_hash": "4a603713f26fcc897ebd04cf658c5912333a9d21"
+          }
+        },
+        {
+          "client_id": "830206027571-kbphibjcpp2frv0efebrrr2ihs6fjis1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-T-2-NzFHgndbjxHjBpI2-snMKTwBQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830206027571-kbphibjcpp2frv0efebrrr2ihs6fjis1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
