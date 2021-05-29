@@ -36,7 +36,7 @@ Admin:
 ⦁	add destination
 ⦁	remove old bus
 
-#Working Principles
+# Working Principles
 
 # Admin
 Admin can modify the application and also get all information of user. Admin also create user page and all user registration to user page as a subscriber. Different transport companies have different user admin also create different user page to easily find them.
