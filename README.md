@@ -62,3 +62,12 @@ We also created a chat option where user connected with admin and share their pr
 
  # Review or feedback option
  User can review their experience how the application working and which part should be making better.
+ 
+ # The System Design
+The system design phase describes the functional capabilities of the proposed system. Systems
+design is the process of defining the architecture, modules, interfaces, and data for a system to
+satisfy specified requirements. Systems design could be seen as the application of systems
+theory to product development. This is divided into the following design phases:
+# Use Case Diagram
+Use case diagrams represent the functions of a system from the user’s point of view
+
