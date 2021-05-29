@@ -70,4 +70,4 @@ satisfy specified requirements. Systems design could be seen as the application 
 theory to product development. This is divided into the following design phases:
 # Use Case Diagram
 Use case diagrams represent the functions of a system from the user’s point of view
-
+![usecase1](https://user-images.githubusercontent.com/84829433/120057766-93f57b80-bffa-11eb-9f34-5beab64fedaa.png)
