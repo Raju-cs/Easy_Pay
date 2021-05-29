@@ -72,5 +72,5 @@ theory to product development. This is divided into the following design phases:
 Use case diagrams represent the functions of a system from the user’s point of view
 ![usecase1](https://user-images.githubusercontent.com/84829433/120057766-93f57b80-bffa-11eb-9f34-5beab64fedaa.png)
 # Activity Diagram
-
+Activity diagrams are to represent the parallel behavior of an operation as a set of actions.
 ![activity](https://user-images.githubusercontent.com/84829433/120057902-d9667880-bffb-11eb-917d-62593273e463.png)
