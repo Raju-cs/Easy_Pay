@@ -74,8 +74,7 @@ Use case diagrams represent the functions of a system from the user’s point of
 # Activity Diagram
 Activity diagrams are to represent the parallel behavior of an operation as a set of actions.
 ![activity](https://user-images.githubusercontent.com/84829433/120057902-d9667880-bffb-11eb-917d-62593273e463.png)
-# App Implementation - Easy Pay Bus Bill Using QR Code
-In my project I worked on ‘Easy Pay Bus Bill Using QR Code’ which developed using Dart, Flutter framework,. Though my project was running correctly in practical presentation I needed to find a testing overview of when it will be implemented in real life working place.
+
 # Entity Relationship Diagram
 An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database. ER diagrams illustrate the logical structure of databases.
 ![Entity (1)](https://user-images.githubusercontent.com/84829433/120058059-c902cd80-bffc-11eb-8146-7c6a18f5c7d5.png)
